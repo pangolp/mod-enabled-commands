@@ -112,7 +112,7 @@ public:
 
     void OnLogin(Player* player) override
     {
-        if (sConfigMgr->GetOption<bool>("MEC.Enable", true))
+        if (sConfigMgr->GetOption<bool>("MEC.Message", true))
         {
             ChatHandler(player->GetSession()).PSendSysMessage("This server is running the |cff4CFF00Enabled commands |rmodule.");
         }
