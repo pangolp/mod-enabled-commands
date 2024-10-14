@@ -4,7 +4,7 @@
 
 - Latest build status with azerothcore:
 
-[![Build Status](https://github.com/pangolp/mod-solocraft/workflows/core-build/badge.svg?branch=master&event=push)](https://github.com/pangolp/mod-solocraft)
+[![Build Status](https://github.com/pangolp/mod-enabled-commands/workflows/core-build/badge.svg?branch=master&event=push)](https://github.com/pangolp/mod-enabled-commands)
 
 This module, try to create some own commands or simply modify part of the existing ones.
 To request different parameters or to change their behavior.
